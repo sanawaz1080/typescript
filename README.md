@@ -87,3 +87,11 @@ You can have TypeScript create tsconfig.json with the recommended settings with:
 - never
 - enum
 - tuple
+
+### To compile
+
+`tsc`
+
+### To execute
+
+`node dist/index.js`
