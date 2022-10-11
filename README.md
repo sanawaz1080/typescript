@@ -39,6 +39,14 @@ TypeScript has an official compiler which can be installed through npm.
 
 `npm install -g typescript`
 
-We can check typescript version by using this command
+We can check typescript version by using this command.
 
 `tsc -v`
+
+### Hello World! Example
+
+Suppose if you want to compile ts file,
+Eg: index.ts
+Then use do like this,
+`tsc index.ts`
+This will generate a new index.js file.
