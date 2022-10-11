@@ -54,3 +54,13 @@ Then use do like this,
 `tsc index.ts`
 
 This will generate a new **index.js** file.
+
+## Configuring the TypeScript compiler
+
+By default the TypeScript compiler will print a help message when run in an empty project.
+
+The compiler can be configured using a **tsconfig.json file.**
+
+You can have TypeScript create tsconfig.json with the recommended settings with:
+
+`tsc --init`
