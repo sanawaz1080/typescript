@@ -64,3 +64,5 @@ The compiler can be configured using a **tsconfig.json file.**
 You can have TypeScript create tsconfig.json with the recommended settings with:
 
 `tsc --init`
+
+### Remember the modifications you have to do in tsconfig.json for that just open taht config file once.
