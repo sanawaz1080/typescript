@@ -32,3 +32,13 @@ TypeScript - Medium to large projects
 JavaScript - Simple projects
 
 ## Setting up development environment
+
+### Installing the Compiler
+
+TypeScript has an official compiler which can be installed through npm.
+
+`npm install -g typescript`
+
+We can check typescript version by using this command
+
+`tsc -v`
