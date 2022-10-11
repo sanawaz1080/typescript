@@ -47,10 +47,10 @@ We can check typescript version by using this command.
 
 Suppose if you want to compile ts file,
 
-Eg: index.ts
+**Eg: index.ts**
 
 Then use do like this,
 
 `tsc index.ts`
 
-This will generate a new index.js file.
+This will generate a new **index.js** file.
