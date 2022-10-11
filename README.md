@@ -65,4 +65,25 @@ You can have TypeScript create tsconfig.json with the recommended settings with:
 
 `tsc --init`
 
-### Remember the modifications you have to do in tsconfig.json for that just open taht config file once.
+### Remember the modifications you have to do in tsconfig.json for that just open that config file once.
+
+### Feom now onwards use `tsc` to complie the program because we did required changes in config file.
+
+## Built-in Types
+
+### JavaScript
+
+- number
+- string
+- boolean
+- null
+- undefined
+- object
+
+### TypeScript
+
+- any
+- unknown
+- never
+- enum
+- tuple
