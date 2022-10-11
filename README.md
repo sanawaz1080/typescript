@@ -46,7 +46,11 @@ We can check typescript version by using this command.
 ### Hello World! Example
 
 Suppose if you want to compile ts file,
+
 Eg: index.ts
+
 Then use do like this,
+
 `tsc index.ts`
+
 This will generate a new index.js file.
